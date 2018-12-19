@@ -25,3 +25,8 @@ namespace OpenXML
         }
     }
 }
+/*
+Create a new CS Console Application.
+Add Reference > DocumentFormat.OpenXml.dll (Browse)
+Add Reference > WindowsBase (Assembly>Framework)
+*/
